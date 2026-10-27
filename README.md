@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:e056a0,100:6b2fa8&height=200&section=header&text=Salsabila%20Arfan%20Aulia%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20and%20Data%20Analyst&descAlignY=56&descSize=20)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4a261,50:f472b6,100:c084fc&height=200&section=header&text=Salsabila%20Arfan%20Aulia&fontSize=42&fontColor=ffffff&fontType=Lobster&animation=fadeIn&fontAlignY=45" width="100%" alt="header"/>
 
 <div align="center">
 
@@ -71,4 +71,4 @@ Hi, I'm a **fifth-semester Software Engineering Technology student at IPB Univer
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:e056a0,100:6b2fa8&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
