@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11&height=200&section=header&text=Salsabila%20Arfan%20Aulia&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%26%20Data%20Analyst&descAlignY=56&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Salsabila%20Arfan%20Aulia&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20and%20Data%20Analyst&descAlignY=56&descSize=20)
 
 <div align="center">
 
