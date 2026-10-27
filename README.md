@@ -60,17 +60,6 @@ Hi, I'm a **fifth-semester Software Engineering Technology student at IPB Univer
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=awlcapy&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awlcapy&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 💌 Let's Connect
 
 <div align="center">
